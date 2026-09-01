@@ -1,1 +1,1 @@
-# Portfolio.guithub.io
+# A personal portfolio website showcasing my skills, projects, certifications, and education as a B.Tech CSE student. It focuses on my interests in Full-Stack Development and IoT, along with my experience in technologies like Python, Java, C, JavaScript, HTML, and CSS.
